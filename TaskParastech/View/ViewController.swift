@@ -8,7 +8,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-    
+    //MARK:- View Model
     var viewModel = UserViewModel()
 
     @IBOutlet weak var collectionView: UICollectionView!
